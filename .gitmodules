@@ -1,0 +1,6 @@
+[submodule "backend_repo_4487_third_case"]
+	path = backend_repo_4487_third_case
+	url = https://github.com/lakshya-blitzy/backend_repo_4487_third_case.git
+[submodule "frontend_repo_4487_third_case"]
+	path = frontend_repo_4487_third_case
+	url = https://github.com/lakshya-blitzy/frontend_repo_4487_third_case.git
