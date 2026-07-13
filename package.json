@@ -1,0 +1,16 @@
+{
+  "name": "parent_repo_4487_third_case",
+  "version": "1.0.0",
+  "description": "Minimal Express.js tutorial server exposing a Hello world endpoint and a Good evening endpoint.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "license": "ISC"
+}
